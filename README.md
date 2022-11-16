@@ -10,6 +10,8 @@
 
 👉 real-time database with Firebase’s Firestore 🔥
 
+👉 How to make beautiful components with Material UI 🚀
+
 👉 the final deploy using Firebase Hosting!
 
 ## How to start the project?
