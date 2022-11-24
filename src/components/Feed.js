@@ -6,6 +6,7 @@ import ImageIcon from "@mui/icons-material/Image";
 import SubscriptionsIcon from "@mui/icons-material/Subscriptions";
 import EventNoteIcon from "@mui/icons-material/EventNote";
 import CalendarViewDayIcon from "@mui/icons-material/CalendarViewDay";
+import Post from "./Post";
 
 function Feed() {
   return (
@@ -29,6 +30,8 @@ function Feed() {
           />
         </div>
       </div>
+
+      <Post name="Kseniia P" descr="The test" message="It actually works!" />
     </div>
   );
 }
