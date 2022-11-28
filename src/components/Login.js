@@ -42,8 +42,7 @@ function Login() {
                 displayName: userAuth.user.displayName,
                 photoURL: userAuth.user.photoURL
             }))
-
-        })
+        }).catch(error => alert(error))
     };
 
     return (
